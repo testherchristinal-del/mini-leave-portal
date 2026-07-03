@@ -1,3 +1,4 @@
+
 {
   "name": "mini-leave-portal",
   "version": "1.0.0",
@@ -6,6 +7,9 @@
   "scripts": {
     "dev": "nodemon server.js",
     "start": "node server.js"
+  },
+  "engines": {
+    "node": "20.x"
   },
   "keywords": [],
   "author": "",
