@@ -1,4 +1,3 @@
-
 {
   "name": "mini-leave-portal",
   "version": "1.0.0",
@@ -17,12 +16,12 @@
   "type": "commonjs",
   "dependencies": {
     "bcrypt": "^6.0.0",
+    "better-sqlite3": "^12.11.1",
     "cors": "^2.8.6",
     "express": "^5.2.1",
     "helmet": "^8.2.0",
     "jsonwebtoken": "^9.0.3",
     "morgan": "^1.11.0",
-    "sqlite3": "^6.0.1",
     "zod": "^4.4.3"
   },
   "devDependencies": {
